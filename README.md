@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://cs50.harvard.edu/ai/2024/logo.png" alt="CS50 AI Logo" width="200" />
   <h1>CS50's Introduction to Artificial Intelligence with Python</h1>
   <p><strong>My complete repository of projects and solutions for Harvard's CS50 AI course.</strong></p>
 
