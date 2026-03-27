@@ -16,7 +16,7 @@
 This repository contains my personal solutions to the projects assigned in **[CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/)**. The course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation.
 
 ### 🏆 Course Completion Snapshot
-[**`Course Completion Snapshot`**](course completetion snapshot.png)
+[**`Course Completion Snapshot`**](course_completetion_snapshot.png).
 
 ### 📜 Verified Certificate
 My verified certificate for completing this course is included in the repository and can be viewed here: [**`CS50AI_Certificate.pdf`**](CS50AI_Certificate.pdf).
